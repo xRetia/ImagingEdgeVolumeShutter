@@ -39,7 +39,6 @@
 | 目标应用 | Sony Imaging Edge `com.sony.playmemories.mobile` |
 | 已测试版本 | Imaging Edge 7.8.5 ✅ |
 | 蓝牙遥控 | 发送音量键事件的遥控器 |
-| B 门 | 按住音量键，松开结束曝光 |
 
 模块包名：`com.xretia.sonyiem.volumeshutter`
 
