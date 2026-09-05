@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="module_description">让 Sony Imaging Edge 支持音量键（和蓝牙遥控）响应拍照，同时支持 B 门长按拍照</string>
+</resources>
