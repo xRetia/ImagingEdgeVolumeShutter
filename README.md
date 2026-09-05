@@ -1,6 +1,6 @@
-# SONY IEM 音量键快门 📷
+# SONY ImagingEdge 音量键快门 📷
 
-让 Sony Imaging Edge 支持音量键和蓝牙遥控拍照。
+让 Sony ImagingEdge 支持音量键和蓝牙遥控拍照。
 
 ## 功能
 
